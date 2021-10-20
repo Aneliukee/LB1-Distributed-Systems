@@ -1,8 +1,0 @@
-bin\Debug\Client.exe.config
-bin\Debug\Client.exe
-bin\Debug\Client.pdb
-bin\Debug\Common.dll
-bin\Debug\Common.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Client.exe
-obj\Debug\Client.pdb
