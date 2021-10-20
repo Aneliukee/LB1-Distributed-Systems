@@ -1,0 +1,16 @@
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\bin\Debug\Client.exe.config
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\obj\Debug\Client.exe
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\obj\Debug\Client.pdb
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\bin\Debug\Client.exe
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\bin\Debug\Client.pdb
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\bin\Debug\Common.dll
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\bin\Debug\Common.pdb
+E:\R-Paskaitos\P170B417\skaidres-2007\unit5\Serializing Remotable Types\Client\obj\Debug\ResolveAssemblyReference.cache
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\bin\Debug\Client.exe.config
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\obj\Debug\Client.exe
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\obj\Debug\Client.pdb
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\bin\Debug\Client.exe
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\bin\Debug\Client.pdb
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\bin\Debug\Common.dll
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\bin\Debug\Common.pdb
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Client\obj\Debug\ResolveAssemblyReference.cache

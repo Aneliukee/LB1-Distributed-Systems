@@ -1,0 +1,23 @@
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Common\bin\Debug\Common.dll
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Common\bin\Debug\Common.pdb
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Common\obj\Debug\Common.dll
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Common\obj\Debug\Common.pdb
+E:\R-Paskaitos\P170B417\mod_03\3-Object Marshaling\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\bin\Debug\Common.dll
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\bin\Debug\Common.pdb
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\obj\Debug\Common.dll
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\5-Object Marshaling\Common\obj\Debug\Common.pdb
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\bin\Debug\Common.dll
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\bin\Debug\Common.pdb
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\obj\Debug\Common.dll
+E:\Paskaitos\Bandymai\NET_Remoting_XML_Web Services\1-3-Object Marshaling\Common\obj\Debug\Common.pdb
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\bin\Debug\Common.dll
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\bin\Debug\Common.pdb
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\obj\Debug\Common.dll
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\obj\Debug\Common.pdb
+D:\KTU\Magistro studijos\Algoritmai\L1-distributed-system\Common\obj\Debug\Common.csproj.AssemblyReference.cache
